@@ -17,7 +17,7 @@ export class HeroesComponent {
   constructor(private heroService: HeroService,) {}
 
   ngOnInit(): void {
-    this.getHeroes();
+    this.getHeroes();//test
   }
   //获取数据
   getHeroes(): void {

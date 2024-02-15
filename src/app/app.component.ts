@@ -10,4 +10,7 @@ export class AppComponent {
   fun1(){
     
   }
+  fun3(){
+    
+  }
 }
